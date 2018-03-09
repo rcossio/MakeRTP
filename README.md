@@ -1,11 +1,11 @@
-#MakeRTP
+# MakeRTP
 
 This is a small script to create RPT files.
 It was intended to help with the creation of new residues 
 when simulating with SIRAH forcefield.
 
 
-#Notes
+# Notes
 
 THE SCRIPT IS UNDER DEVELOPEMENT and has not been deeply tested.
 Some issues to fix later:
